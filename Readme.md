@@ -28,22 +28,24 @@ Flow:
 
 ## 📂 Project Structure
 
-. ├── lambda_function.py ├── requirements.txt └── README.md
+. ├── lambda_function.py 
+. ├── requirements.txt 
+  └── README.md
 
 ------------------------------------------------------------------------
 
 ## 🧾 Supported Languages
 
   Language                Code
-  ----------------------- -------
-  Chinese (Simplified)    zh
-  French                  fr
-  German                  de
-  Korean                  ko
-  Polish                  pl
-  Portuguese (Portugal)   pt-PT
-  Spanish                 es
-  Thai                    th
+----------------------- -------
+. Chinese (Simplified)    zh
+. French                  fr
+. German                  de
+. Korean                  ko
+. Polish                  pl
+. Portuguese (Portugal)   pt-PT
+. Spanish                 es
+. Thai                    th
 
 ------------------------------------------------------------------------
 
@@ -103,18 +105,19 @@ Timeout: 1--3 minutes
 
 Example:
 
-`<xliff version="1.0">`{=html}
-`<file source-language="en" TranslatedText-language="en">`{=html}
-```{=html}
-<body>
 ```
-`<trans-unit>`{=html} `<source>`{=html}Home`</source>`{=html}
-`<TranslatedText>`{=html}Casa`</TranslatedText>`{=html}
-`</trans-unit>`{=html}
-```{=html}
-</body>
+<xliff version="1.0">
+  <file source-language="en" TranslatedText-language="en">
+    <body>
+      <trans-unit>
+        <source>Home</source>
+        <TranslatedText>Casa</TranslatedText>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
 ```
-`</file>`{=html} `</xliff>`{=html}
+
 
 ------------------------------------------------------------------------
 
