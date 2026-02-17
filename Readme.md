@@ -36,16 +36,16 @@ Flow:
 
 ## 🧾 Supported Languages
 
-  Language                Code
------------------------ -------
-. Chinese (Simplified)    zh
-. French                  fr
-. German                  de
-. Korean                  ko
-. Polish                  pl
-. Portuguese (Portugal)   pt-PT
-. Spanish                 es
-. Thai                    th
+  Language              |  Code  |  
+----------------------- |------- |  
+1. Chinese (Simplified) |   zh   | 
+2. French               |   fr   | 
+3. German               |   de   | 
+4. Korean               |   ko   | 
+5. Polish               |   pl   |
+6. Portuguese (Portugal)|   pt-PT| 
+7. Spanish              |   es   | 
+8. Thai                 |   th   | 
 
 ------------------------------------------------------------------------
 
